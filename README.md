@@ -1,2 +1,1 @@
 # Traffic_Sign_Recognition_System
-Traffic_Sign_Recognition_System
